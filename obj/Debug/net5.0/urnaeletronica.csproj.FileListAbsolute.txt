@@ -1,0 +1,16 @@
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.csprojAssemblyReference.cache
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.AssemblyInfoInputs.cache
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.AssemblyInfo.cs
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.csproj.CoreCompileInputs.cache
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.exe
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.deps.json
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.runtimeconfig.json
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.runtimeconfig.dev.json
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.dll
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\ref\urnaeletronica.dll
+C:\Users\User\Codigos\urnaeletronica\bin\Debug\net5.0\urnaeletronica.pdb
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.dll
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\ref\urnaeletronica.dll
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.pdb
+C:\Users\User\Codigos\urnaeletronica\obj\Debug\net5.0\urnaeletronica.genruntimeconfig.cache
