@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/home/junior/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Codigos\\urnaeletronica\\urnaeletronica.csproj",
+      "projectUniqueName": "/home/junior/codes/UrnaEletronicaConsole/urnaeletronica.csproj",
       "projectName": "urnaeletronica",
-      "projectPath": "C:\\Users\\User\\Codigos\\urnaeletronica\\urnaeletronica.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Codigos\\urnaeletronica\\obj\\",
+      "projectPath": "/home/junior/codes/UrnaEletronicaConsole/urnaeletronica.csproj",
+      "packagesPath": "/home/junior/.nuget/packages/",
+      "outputPath": "/home/junior/codes/UrnaEletronicaConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/junior/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -39,7 +39,7 @@ namespace urnaeletronica
             void telaEntrada(){
                 Console.Clear();
                 Console.WriteLine("***************************************");
-                Console.WriteLine("*** APLICATIVO URNA ENETRÔNICA V1.0 ***");
+                Console.WriteLine("*** APLICATIVO URNA ENETRÔNICA V0.1 ***");
                 Console.WriteLine("***************************************");
 
             }
@@ -87,10 +87,7 @@ namespace urnaeletronica
             void votar() {
                 int votoPref = 0;
                 int votoVer  = 0;
-                Console.Clear();
-                Console.WriteLine("***************************************");
-                Console.WriteLine("*** APLICATIVO URNA ENETRÔNICA V1.0 ***");
-                Console.WriteLine("***************************************");
+                telaEntrada();
                 Console.WriteLine();
                 
                 //VOTO PARA PREFEITO

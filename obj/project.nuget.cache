@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMZKxXEVex4QHMl00tQvuY0EujCoqZ6GF/gmgMpZlTWorR3iVn1HJspAFbfcSkMSX6I8AgG68tainbIBWAOVOw==",
+  "dgSpecHash": "XXPvKN+OcoWzN62jF9TYxyCEkzYhmN/7FSudK1OJnVyQQ5Jayk7ErwdJtHG2GcxHr/jOUGij6EyiqvGQQ850ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Codigos\\urnaeletronica\\urnaeletronica.csproj",
+  "projectFilePath": "/home/junior/codes/UrnaEletronicaConsole/urnaeletronica.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
